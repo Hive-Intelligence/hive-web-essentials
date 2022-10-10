@@ -7,7 +7,7 @@
   "publisher": "aak1247",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gydunhn/VSC-Essentials.git"
+    "url": "https://github.com/Hive-Intelligence/hive-web-essentials.git"
   },
   "engines": {
     "vscode": "^1.72.0"
