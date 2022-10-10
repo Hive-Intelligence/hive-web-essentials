@@ -3,7 +3,7 @@
   "displayName": "hive web essentials",
   "description": "蜂巢web开发vsc扩展包",
   "icon": "img/logo_vsc.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "aak1247",
   "repository": {
     "type": "git",
@@ -18,6 +18,14 @@
   },
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "hive",
+    "web",
+    "hive-web",
+    "extensionPack",
+    "essentials",
+    "hive-web-essentials"
   ],
   "extensionPack": [ 
     "dbaeumer.vscode-eslint", 
