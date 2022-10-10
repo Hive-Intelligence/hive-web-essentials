@@ -3,7 +3,7 @@
   "displayName": "hive web essentials",
   "description": "蜂巢web开发vsc扩展包",
   "icon": "img/logo_vsc.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "aak1247",
   "repository": {
     "type": "git",
