@@ -3,14 +3,14 @@
   "displayName": "hive web essentials",
   "description": "蜂巢web开发vsc扩展包",
   "icon": "img/logo_vsc.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "aak1247",
   "repository": {
     "type": "git",
     "url": "https://github.com/Hive-Intelligence/hive-web-essentials.git"
   },
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^0.10.5"
   },
   "galleryBanner": {
     "color": "#53595e",
